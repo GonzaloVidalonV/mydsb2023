@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://gonzalo-vidalon-portfolio.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Kostis Christodoulou
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,24 +8,24 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+     # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Gonzalo Vidalon, I am currently studying the Master in Financial Analysis (MFA2023) at London Business School. Bachelor in Economics at Universidad del Pacífico (UP) and Bsc. in Economics & Finance at University of London with First Class Honours. Proficient in SQL, R, Python, Stata, Eviews Microsoft Excel (VBA) and Bloomberg. Passed Level I of the CFA Program. Native Spanish speaker.
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London
+        country: UK
+        street: London Business School
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: ga.vidalonveliz@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: 07377905793
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,12 +35,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: London Business School - Data Science in R
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
-        url: https://www.html5up.net
+        url: https://www.london.edu/
     social:
       - icon: fa-twitter
         label: Twitter
@@ -53,7 +53,7 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/GonzaloVidalonV
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com

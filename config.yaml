@@ -10,8 +10,8 @@ params:
     subtitle: |-
      # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Gonzalo Vidalon, I am currently studying the Master in Financial Analysis (MFA2023) at London Business School. Bachelor in Economics at Universidad del Pacífico (UP) and Bsc. in Economics & Finance at University of London with First Class Honours. Proficient in SQL, R, Python, Stata, Eviews Microsoft Excel (VBA) and Bloomberg. Passed Level I of the CFA Program. Native Spanish speaker.
-  blog: {}
+    title: Gonzalo Vidalon - Portfolio
+  blog: {Hi, my name is Gonzalo Vidalon, I am currently studying the Master in Financial Analysis (MFA2023) at London Business School. Bachelor in Economics at Universidad del Pacífico (UP) and Bsc. in Economics & Finance at University of London with First Class Honours. Proficient in SQL, R, Python, Stata, Eviews Microsoft Excel (VBA) and Bloomberg. Passed Level I of the CFA Program. Native Spanish speaker.}
   contact:
     address:
       - city: London

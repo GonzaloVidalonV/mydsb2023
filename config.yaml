@@ -66,9 +66,9 @@ params:
         url: '#'
     links:
       - name: Home
-        url: blogs/risk_return
+        url: blogs/ipsum
       - name: Blogs
-        url: blogs
+        url: blogs/risk_return
       - name: Generic Blog
         url: blogs/ipsum
       - name: Elements

@@ -82,7 +82,7 @@ params:
       - image: lbs.jpg
         subtitle: General Information
         title: Home
-        url: blogs/risk_return.Rmd
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: If you want to know more about my experience
         title: About

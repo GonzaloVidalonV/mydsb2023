@@ -113,3 +113,9 @@ params:
     Passed Level I of the CFA Program. Native Spanish speaker."
     title: Short Bio
     url: blogs
+    
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true
+
